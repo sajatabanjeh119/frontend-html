@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <title> Interest Survey </title>
+  </head>
+  <body>
+    <center>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzIEl4XKF9Ck5YQzWT4e3k9pQ7FISDIltNWvKWsn5bNWIZBcwGni4aXl-F4cqOvmFT6ik&usqp=CAU" alt=""width="100px" height="100px">
+       <h1>Interest Survey form</h1>
+
+
+       <div>
+       <label>Enter your name :</label> <input type="text" name="name" value="">
+
+       </div>
+       <br>
+
+       <div >
+       <label>Enter your email:</label> <input type="email" name="email" value="">
+       </div>
+       <br>
+       <div >
+       <label> Tell us a little about yourself :</label>
+       <textarea name="name" rows="3" cols="30"></textarea>
+       </div>
+       <p> Do you exercise at home ?</p>
+       <input type="radio" name="choic" value="yes">
+       <label> yes</label>
+
+       <input type="radio" name="choic" value="yes">
+       <label> no</label>
+       <p>How do you like to read about your favorite topics ?</p>
+       <input type="checkbox" name="" value="">
+       <label> Books </label>
+       <input type="checkbox" name="" value="">
+       <label> Online resources</label>
+       <input type="checkbox" name="" value="">
+       <label> Phone apps</label>
+       <input type="checkbox" name="" value="">
+       <label> Magazines</label>
+      <div >
+       <p>What genre of movies do you like ?</p>
+       <select name="movies" id=movies>
+         <option value="">comedy</option>
+         <option value="">romace</option>
+         <option value="">thriller</option>
+         <option value="">horror</option>
+        </select>
+       </div>
+       <br>
+
+        <div >
+          <input type="submit"  value=" Submit Form">
+        </div>
+        <br>
+        <div >
+        <p>Learn more about us :</p>
+        </div>
+        <br>
+
+<video src="document_5886737387702194029.mp4" width="450px" height="450px" controls muted autoplay   >
+
+</video>
+</video>
+
+
+    </center>
+
+  </body>
+</html>
